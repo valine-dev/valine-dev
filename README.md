@@ -1,10 +1,27 @@
+<style type="text/css" rel="stylesheet">
+.circular--portrait{
+    position:relative;
+    width:150px;
+    height:150px;
+    overflow:hidden;
+    border-radius:50%;
+}
+
+.circular--portrait img{
+    width:100%;
+    height:auto;
+}
+</style>
+
 > "Ah! ~~Hello G0rdH*@@~~"
 >
 > Dr. Coomer
 
 <div align="center">
 
-![rc](https://user-images.githubusercontent.com/44944910/130325714-7a8582a2-888f-4139-8b63-12b6d54d3aeb.png)
+<div class="circular--portrait">
+    <img class="circular--portrait" src="https://user-images.githubusercontent.com/44944910/130325714-7a8582a2-888f-4139-8b63-12b6d54d3aeb.png" alt="rc">
+</div>
 
 # eRythroCyte
 
