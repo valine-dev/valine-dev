@@ -1,18 +1,3 @@
-<style type="text/css" rel="stylesheet">
-.circular--portrait{
-    position:relative;
-    width:150px;
-    height:150px;
-    overflow:hidden;
-    border-radius:50%;
-}
-
-.circular--portrait img{
-    width:100%;
-    height:auto;
-}
-</style>
-
 > "Ah! ~~Hello G0rdH*@@~~"
 >
 > Dr. Coomer
