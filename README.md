@@ -1,16 +1,66 @@
-### Hi there 👋
+> "Ah! ~~Hello G0rdH*@@~~"
+>
+> Dr. Coomer
 
-<!--
-**KRedCell/KRedCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![rc](https://user-images.githubusercontent.com/44944910/130325714-7a8582a2-888f-4139-8b63-12b6d54d3aeb.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# eRythroCyte
+
+</div>
+
+就在刚刚，您找到了一个毫无用处的 *Average Github Profile™* ！好耶！恭喜您ww
+
+<div align="center">
+
+![achievement](https://user-images.githubusercontent.com/44944910/130325785-d6aceb49-fa82-49e0-b2fc-17013302491f.png)
+
+</div>
+
+## 你 *[ 友善度 ]* 谁啊？
+
+> 您可真是一位 *[ 友善度 ]*
+
+<details>
+
+<summary>[ 友善度 ] 的 Python 实现</summary>
+
+```python
+@dataclass
+class eRythroCyte(Person):  # is it a person question mark
+    '''Implementation of erythrocyte in Python'''
+
+    aka = 'RedCell'
+    gender = None
+    birthday = datetime.now()
+    classes = [
+        'Proletariat',
+        'Student',
+        'First-Person Shooter Enthusiast',
+        'Niko Addicted',
+        'i want to be a geek so plz help to uninstall IE ty uwu',
+        'Niko Addicted',
+        'Multiple languages avaliable',
+        'idk how to use python why it\'s reporting errors plz help me stackoverflow',  # Omg pep8 is getting crazy here... oh i'm using flake now, that's fine
+        'Google Oriented Programming',  # why the list is so boring... i'm 'bouta sleep
+        # Yeah... it better stops right here before anything goes wrong...
+    ]
+
+    def is_liking(self, o: object):
+        if o == Niko:
+            return True
+        return super().is_liking()
+    
+    def suicide(self):
+        # Wait wut?
+        # this is isn't right...
+        # it shouldn't be here...
+        # human eventually die ik...
+        # ...
+        # will it happen?
+        raise NotImplementedError
+
+```
+
+</details>
