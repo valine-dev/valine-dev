@@ -8,12 +8,16 @@ The user has dived into the <b>Wired</b>.
 # Valine.
 
 ```
-...This now, when everything never dies
+...
+  
+Wake your reason's hollow vote
 
-Live again
+Wear your blizzard season coat
 
-Burst into the scarlet skies
+Burn a bridge and burn a boat
 
-Reshaped, resized...
+Stake a Lizard by the throat
+
+...
 ```
 </div>
