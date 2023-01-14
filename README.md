@@ -10,13 +10,9 @@ The user has dived into the <b>Wired</b>.
 ```
 ...
   
-Wake your reason's hollow vote
+Clear the battlefield and let me see
 
-Wear your blizzard season coat
-
-Burn a bridge and burn a boat
-
-Stake a Lizard by the throat
+All the profit from our victory.
 
 ...
 ```
