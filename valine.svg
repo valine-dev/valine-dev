@@ -1,0 +1,109 @@
+<svg fill="white" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&amp;display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap" rel="stylesheet" />
+        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+        <style>
+            @keyframes flicker {
+                0% {
+                    opacity: 1;
+                }
+
+                50% {
+                    opacity: 0.1;
+                }
+
+                100% {
+                    opacity: 1;
+                }
+            }
+
+            .container {
+                height: calc(100% - 10px);
+                width: calc(100% - 10px);
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                color: #EEEEEE;
+                background-color: #31363F;
+                border-radius: 30px;
+                border: 3px solid #222831;
+                box-shadow: inset 0 0 15px 5px #222831;
+            }
+
+            .display {
+                font-family: "Major Mono Display", monospace;
+                font-size: 50px;
+            }
+
+            .description {
+                font-family: "Bebas Neue", sans-serif;
+                letter-spacing: 0.8ch;
+                font-weight: 400;
+                font-style: normal;
+            }
+
+            .hlight {
+                color: #76ABAE;
+                font-weight: bold;
+            }
+
+            .titles {
+                text-align: right;
+                display: flexbox;
+                flex-direction: column;
+                padding: 0px;
+                margin-right: -5px;
+                margin-top: 15px;
+            }
+
+            .nanashi {
+                text-align: left;
+                padding: 0px;
+                display: flexbox;
+                width: 30%;
+                margin-right: -15px;
+            }
+
+            .flicker {
+                animation: flicker 2s linear infinite;
+            }
+
+            .icons {
+                padding-top: 12px;
+                line-height: 0.5px;
+            }
+
+            i:nth-child(even) {
+                color: #76ABAE
+            }
+
+            i {
+                font-size: 20px;
+                letter-spacing: 0.5ch;
+                color: #EEEEEE;
+            }
+        </style>
+        <div class="container">
+            <div class="titles">
+                <p class="display">Valine<span class="hlight">0</span>X<span class="flicker">_</span></p>
+                <p class="description">The user has dived into the <span class="hlight">WIRED</span></p>
+                <p class="icons">
+                    <i class="devicon-rust-original"></i>
+                    <i class="devicon-python-plain"></i>
+                    <i class="devicon-godot-plain"></i>
+                    <i class="devicon-c-plain"></i>
+                    <i class="devicon-svelte-plain"></i>
+                    <i class="devicon-emacs-original"></i>
+                    <i class="devicon-haskell-plain"></i>
+                    <i class="devicon-vscode-plain"></i>
+                </p>
+            </div>
+            <div class="nanashi">
+                <img src="./nanashi.png"></img>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
