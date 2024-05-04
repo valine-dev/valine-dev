@@ -4425,7 +4425,7 @@
         </style>
         <div class="container" xmlns="http://www.w3.org/1999/xhtml">
             <div class="titles">
-                <p class="display glow layers glitch"><span>Valine<span class="hlight">0</span>X</span><span class="flicker">_</span></p>
+                <p class="display glow layers glitch" data-text="Valine0X" ><span>Valine<span class="hlight">0</span>X</span><span class="flicker">_</span></p>
                 <p class="description">The user has dived into the <span class="hlight">WIRED</span></p>
                 <p class="icons">
                     <i class="devicon-rust-original"></i>
